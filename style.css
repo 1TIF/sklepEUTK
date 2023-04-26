@@ -38,6 +38,13 @@ body
 	color: FFFFFF;
 	width: 20%;
 }
+
+a
+{
+	text-decoration: none;
+	color: #00C4C4;
+}
+
 a:hover
 {
 	background-color: #3C3C3C;
