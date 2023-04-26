@@ -88,3 +88,12 @@ a:hover
 	background-color: #1A1A1B;
 	border-bottom: 1px solid #FFFFFF;
 }
+
+.blog
+{
+	width: 400px;
+	height: 200px; 
+	display: inline-block;
+	margin-right: 30px;
+	border: 1px solid #FFFFFF;
+}
