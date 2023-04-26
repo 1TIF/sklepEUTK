@@ -61,15 +61,30 @@ a:hover
 }
 #pp
 {
-	margin-left: 60px;
+	marin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	background-color: #1A1A1B;
+	border-bottom: 1px solid #FFFFFF;
 }
 
 #promo
 {
-	margin-left: 60px;
+	marin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	background-color: #1A1A1B;
+	border-bottom: 1px solid #FFFFFF;
 }
 
 #bt
 {
-	margin-left: 60px;
+	marin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	background-color: #1A1A1B;
+	border-bottom: 1px solid #FFFFFF;
 }
