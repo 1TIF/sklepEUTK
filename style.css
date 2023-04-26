@@ -41,4 +41,14 @@ body
 a:hover
 {
 	background-color: #3C3C3C;
+
+}
+
+.sklep
+{
+	width: 300px;
+	height: 300px; 
+	display: inline-block;
+	margin-right: 20px;
+	border: 1px solid #FFFFFF;
 }
