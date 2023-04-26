@@ -20,6 +20,16 @@ body
 .produkt
 {
 	border-left: 2px dashed #00D6D6;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	color: FFFFFF;
+	width: 20%;
+}
+#p
+{
+	border-left: 2px dashed #00D6D6;
 	border-right: 2px dashed #00D6D6;
 	display: inline-block;
 	margin-left: auto;
