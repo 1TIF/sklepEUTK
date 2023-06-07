@@ -1,0 +1,113 @@
+<!DOCKTYPE HTML>
+<html lang="pl">
+<head>
+  <meta charstet="utf-8"/>
+  <title> Produkt 1</title>
+  <meta name="keywords" content=""/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	<link rel="stylesheet" href="style.css" type="text/css"/>
+	<link rel="preconnect" href="https://fonts.googleapis.com"/>
+  	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+	<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap" rel="stylesheet/">
+</head>
+<body>
+	<div id="menu">
+		<a href="klawiatury.html"><div class="produkt"> Klawiatury</div></a>
+		<a href="myszki.html"><div class="produkt"> Myszki komp.</div></a>
+		<a href="komputery.html"><div class="produkt"> Komputery</div></a>
+		<a href="laptopy.html"><div class="produkt"> Laptopy</div></a>
+		<div id="p"><input text placeholder="Wyszukaj produkt: "></div>
+	</div>
+	<div id="sklep">
+		<div id="item">
+			<h3>Komputer HP Victus 15L <br>
+			Cena: 5 499,00 zł</h3>
+			<img src="p6.jpg">
+			<h6> 
+			Procesor:
+Intel Core i5-12400F (6 rdzeni, 12 wątków, 2.50-4.40 GHz, 18 MB cache)<br>
+Chipset:
+Intel H670<br>
+Pamięć RAM:
+32 GB (DIMM DDR4, 3200 MHz)<br>
+Maksymalna obsługiwana ilość pamięci RAM:
+32 GB<br>
+Liczba gniazd pamięci (ogółem / wolne):
+2/0<br>
+Napięcie pamięci RAM:
+1.35 V<br>
+Karta graficzna:
+NVIDIA GeForce RTX 3060<br>
+Wielkość pamięci karty graficznej:
+12288 MB GDDR6 (pamięć własna)<br>
+Dysk SSD PCIe:
+512 GB<br>
+Opcje dołożenia dysków:
+Możliwość montażu trzech dysków SATA (brak elementów montażowych)<br>
+Wbudowane napędy optyczne:
+Brak<br>
+Dźwięk:
+Zintegrowana karta dźwiękowa<br>
+Łączność:
+Wi-Fi 6 (802.11 a/b/g/n/ac/ax)
+LAN 10/100/1000 Mbps
+Bluetooth<br>
+Złącza - panel przedni:
+USB 3.2 Gen. 1 - 2 szt.
+USB 3.2 Gen. 2 - 2 szt.
+USB Type-C - 1 szt.
+Wyjście słuchawkowe/wejście mikrofonowe - 1 szt.<br>
+Złącza - panel tylny:
+USB 2.0 - 4 szt.
+Wejście/wyjścia audio - 3 szt.
+RJ-45 (LAN) - 1 szt.
+HDMI (karta graficzna) - 1 szt.
+Display Port (karta graficzna) - 3 szt.
+AC-in (wejście zasilania) - 1 szt.<br>
+Porty wewnętrzne (wolne):
+PCI-e x1 - 1 szt.
+SATA III - 3 szt.
+Kieszeń wewnętrzna 3,5" - 2 szt.
+Kieszeń wewnętrzna 2,5" - 1 szt.<br>
+Zasilacz:
+400 W<br>
+Podświetlenie obudowy:
+Jednokolorowe<br>
+Tryby podświetlenia:
+Stały<br>
+Dodatkowe informacje:
+Możliwość zabezpieczenia linką (port Kensington Lock)<br>
+Dołączone akcesoria:
+Kabel zasilający<br>
+System operacyjny:
+Microsoft Windows 11 Home<br>
+Dołączone oprogramowanie:
+Partycja recovery (opcja przywrócenia systemu z dysku)<br>
+Wysokość:
+340 mm<br>
+Szerokość:
+155 mm<br>
+Głębokość:
+317 mm<br>
+Waga:
+5,2 kg<br>
+Gwarancja:
+24 miesiące (gwarancja x-kom sp. z o.o.)<br>
+Rodzaj gwarancji:
+Standardowa
+			</h6>
+			
+		</div>
+		<div id="bt">
+			<h2>Blog technologiczny:</h2>
+			<a href="blog1.html"><div class="blog"><h3> Topologie sieci </h3> </div></a>
+			<a href="blog2.html"><div class="blog"><h3> Sieci WiFi </h3>  </div></a>
+			<a href="blog3.html"><div class="blog"><h3> Media transmisyjne </h3> </div></a>
+		</div>
+	</div>
+	<div id="footer">
+		Strona nie jest prawdziwym sklepem, projekt strony na lekcje EUTK napisany własnoręcznie przez Alana Abramowskiego.
+	</div>
+	
+</body>
+</html>

@@ -1,0 +1,114 @@
+<!DOCKTYPE HTML>
+<html lang="pl">
+<head>
+  <meta charstet="utf-8"/>
+  <title> Produkt 2</title>
+  <meta name="keywords" content=""/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	<link rel="stylesheet" href="style.css" type="text/css"/>
+	<link rel="preconnect" href="https://fonts.googleapis.com"/>
+  	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+	<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap" rel="stylesheet/">
+</head>
+<body>
+	<div id="menu">
+		<a href=""><div class="produkt"> Klawiatury</div></a>
+		<a href=""><div class="produkt"> Myszki komp.</div></a>
+		<a href=""><div class="produkt"> Komputery</div></a>
+		<a href=""><div class="produkt"> Laptopy</div></a>
+		<div id="p"><input text></div>
+	</div>
+	<div id="sklep">
+		<div id="item">
+			<h3>Apple MacBook Air M1<br>
+			Cena: 4549,00 zł</h3>
+			<img src="p2.jpg">
+			<h6>Procesor:
+Apple M1 (8 rdzeni, ARM)<br>
+Pamięć RAM: 
+8 GB (pamięć zunifikowana)<br>
+Maksymalna obsługiwana ilość pamięci RAM:
+8 GB<br>
+Liczba gniazd pamięci (ogółem / wolne):
+0/0 (pamięć wlutowana)<br>
+Dyski SSD PCIe (wlutowane):
+256 GB<br>
+Wbudowany napęd optyczny:
+Nie<br>
+Dotykowy ekran:
+Nie<br>
+Typ ekranu:
+Błyszczący, LED, IPS, Retina<br>
+Przekątna ekranu:
+13,3"<br>
+Rozdzielczość ekranu:
+2560 x 1600 (WQXGA)<br>
+Karta graficzna:
+Apple M1 [7 rdzeni]<br>
+Pamięć karty graficznej:
+Pamięć współdzielona<br>
+Dźwięk:
+Wbudowane głośniki stereo
+Wbudowane trzy mikrofony<br>
+Kamera internetowa:
+FaceTime HD
+1.0 Mpix<br>
+Łączność:
+Wi-Fi 6
+Moduł Bluetooth<br>
+Złącza:
+USB Typu-C (z Thunderbolt™ 3) - 2 szt.
+Wyjście słuchawkowe/głośnikowe - 1 szt.<br>
+Kolor dominujący:
+Szary<br>
+Czytnik linii papilarnych:
+Tak<br>
+Czujniki:
+Czujnik światła<br>
+Podświetlana klawiatura:
+Tak<br>
+Kolor podświetlenia klawiatury:
+Biały<br>
+Zabezpieczenia:
+Szyfrowanie TPM
+Czytnik Touch ID<br>
+Obudowa i wykonanie:
+Aluminiowa pokrywa matrycy
+Aluminiowe wnętrze laptopa
+Aluminiowa obudowa<br>
+System operacyjny:
+macOS Big Sur<br>
+Dołączone oprogramowanie:
+Partycja recovery (opcja przywrócenia systemu z dysku)<br>
+Dodatkowe informacje:
+Wielodotykowy gładzik Force Touch<br>
+Rok premiery:
+2020<br>
+Wysokość:
+16,1 mm<br>
+Szerokość:
+304 mm<br>
+Głębokość:
+212 mm<br>
+Waga:
+1,29 kg<br>
+Dołączone akcesoria:
+Zasilacz
+Kabel USB Typu-C<br>
+Rodzaj gwarancji:
+Standardowa</h6>
+			
+		</div>
+		<div id="bt">
+			<h2>Blog technologiczny:</h2>
+			<a href="blog1.html"><div class="blog"><h3> Topologie sieci </h3> </div></a>
+			<a href="blog2.html"><div class="blog"><h3> Sieci WiFi </h3>  </div></a>
+			<a href="blog3.html"><div class="blog"><h3> Media transmisyjne </h3> </div></a>
+		</div>
+	</div>
+	<div id="footer">
+		Strona nie jest prawdziwym sklepem, projekt strony na lekcje EUTK napisany własnoręcznie przez Alana Abramowskiego.
+	</div>
+	
+</body>
+</html>

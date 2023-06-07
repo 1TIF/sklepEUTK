@@ -1,0 +1,52 @@
+<!DOCKTYPE HTML>
+<html lang="pl">
+<head>
+  <meta charstet="utf-8"/>
+  <title> Blog - Topologie sieci</title>
+  <meta name="keywords" content=""/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	<link rel="stylesheet" href="style.css" type="text/css"/>
+	<link rel="preconnect" href="https://fonts.googleapis.com"/>
+  	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+	<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap" rel="stylesheet/">
+</head>
+<body>
+	<div id="menu">
+		<a href="klawiatury.html"><div class="produkt"> Klawiatury</div></a>
+		<a href="myszki.html"><div class="produkt"> Myszki komp.</div></a>
+		<a href="komputery.html"><div class="produkt"> Komputery</div></a>
+		<a href="laptopy.html"><div class="produkt"> Laptopy</div></a>
+		<div id="p"><input text placeholder="Wyszukaj produkt: "></div>
+	</div>
+	<div id="sklep">
+		<div id="head">
+			<h4> Topologie sieci. </h4>
+			<h5>Topologia sieci komputerowej – model układu połączeń różnych elementów (linki, węzły itd.) sieci komputerowej. Określenie topologia sieci może odnosić się do konstrukcji fizycznej albo logicznej sieci.</br>
+Topologia fizyczna opisuje sposoby fizycznej realizacji sieci komputerowej, jej układu przewodów, medium transmisyjnych. Poza połączeniem fizycznym hostów i ustaleniem standardu komunikacji, topologia fizyczna zapewnia bezbłędną transmisję danych. Topologia fizyczna jest ściśle powiązana z topologią logiczną np. koncentratory, hosty.</br>
+Topologia logiczna opisuje sposoby komunikowania się hostów za pomocą urządzeń topologii fizyczej.</br>
+Topologie logiczne:</br>
+1. Topologia magistrali – wszystkie elementy sieci podłączone są do jednej magistrali. Obecnie stosowana do łączenia urządzeń w topologii punkt-punkt.</br><img src="91.jpeg" id="s"></br>
+2. Topologia liniowa – odmiana topologii magistrali, w której każdy element sieci połączony jest dokładnie z dwoma sąsiadującymi elementami.</br><img src="92.jpeg" id="s"></br>
+3. Topologia pierścienia – poszczególne elementy są połączone ze sobą w taki sposób jak w topologii liniowej, a dodatkowo połączone zostały elementy graniczne tworząc zamknięty pierścień.</br><img src="93.jpeg" id="s"></br>
+4. Topologia podwójnego pierścienia – odmiana topologii pierścienia, w której poszczególne elementy połączone są ze sobą dwoma przewodami, co pozwala na utworzenie dwóch zamkniętych pierścieni.</br><img src="94.jpeg" id="s"></br>
+5. Topologia gwiazdy – elementy końcowe są podłączone do jednego punktu centralnego, koncentratora lub przełącznika. Stosowana do łączenia urządzeń za pomocą skrętki lub kabla światłowodowego. Każdy pojedynczy kabel jest używany do połączenia z siecią dokładnie jednego elementu końcowego.</br><img src="95.jpeg" id="s"></br>
+6. Topologia gwiazdy rozszerzonej – odmiana topologii gwiazdy, posiadająca punkt centralny i punkty poboczne – jedna z częściej stosowanych topologii fizycznych Ethernetu.</br><img src="96.jpeg" id="s"></br>
+7. Topologia hierarchiczna – zwana także topologią drzewa, jest kombinacją topologii gwiazdy i magistrali, może być także postrzegana jako zbiór sieci w topologii gwiazdy połączonych w strukturę hierarchiczną (drzewiastą).</br><img src="97.jpeg" id="s"></br>
+8. Topologia siatki – elementy łączą się bezpośrednio, dynamicznie i niehierarchicznie z jak największą liczbą innych elementów i współpracują ze sobą w celu efektywnego trasowania danych. Sieć w topologii mesh pozwala na dynamiczne samoorganizowanie się i samokonfigurowanie. Rozwiązanie często stosowane w sieciach, w których wymagana jest bezawaryjność.</br><img src="98.jpeg" id="s"></br>
+Topologie logiczne:</br>
+1. Topologia rozgłaszania – polega na tym, że host wysyła dane do wszystkich innych hostów podłączonych do medium (zob. protokół CSMA). Kolejność korzystania z medium według reguły „kto pierwszy wyśle, pierwszy zostanie obsłużony” (ang. first come, first serve). Przykładem są tutaj sieci Ethernet.</br>
+2. Topologia przekazywania tokena (żetonu) – polega na kontrolowaniu dostępu do sieci poprzez przekazywanie elektronicznego tokena. Host, który w danym momencie posiada token, może skorzystać z medium. W przypadku, gdy nie ma już zadań do wykonania przekazuje token kolejnemu hostowi i cykl się powtarza:</br></h5>
+		</div>
+		<div id="bt">
+			<h2>Blog technologiczny:</h2>
+			<a href="blog1.html"><div class="blog"><h3> Aktualny artykuł </h3> </div></a>
+			<a href="blog2.html"><div class="blog"><h3> Sieci WiFi </h3>  </div></a>
+			<a href="blog3.html"><div class="blog"><h3> Media transmisyjne </h3> </div></a>
+		</div>	
+	</div>
+	<div id="footer">
+		Strona nie jest prawdziwym sklepem, projekt strony na lekcje EUTK napisany własnoręcznie przez Alana Abramowskiego.
+	</div>
+	
+</body>
+</html>

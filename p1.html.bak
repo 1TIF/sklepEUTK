@@ -1,0 +1,126 @@
+<!DOCKTYPE HTML>
+<html lang="pl">
+<head>
+  <meta charstet="utf-8"/>
+  <title> Produkt 1</title>
+  <meta name="keywords" content=""/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	<link rel="stylesheet" href="style.css" type="text/css"/>
+	<link rel="preconnect" href="https://fonts.googleapis.com"/>
+  	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+	<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap" rel="stylesheet/">
+</head>
+<body>
+	<div id="menu">
+		<a href=""><div class="produkt"> Klawiatury</div></a>
+		<a href=""><div class="produkt"> Myszki komp.</div></a>
+		<a href=""><div class="produkt"> Komputery</div></a>
+		<a href=""><div class="produkt"> Laptopy</div></a>
+		<div id="p"><input text></div>
+	</div>
+	<div id="sklep">
+		<div id="item">
+			<h3>Dell Inspiron 5510 <br>
+			Cena: 4200zł </h3>
+			<img src="p1.jpg">
+			<h6> Specjalizacja:<br>
+			Procesor:
+			Intel Core i5-11300H (4 rdzenie, 8 wątków, 3.10-4.40 GHz, 8MB cache)<br>
+			Pamięć RAM:
+			16 GB (DDR4, 3200 MHz)<br>
+			Maksymalna obsługiwana ilość pamięci RAM:
+			32 GB<br>
+			Liczba gniazd pamięci (ogółem / wolne): 
+			2/0<br>
+			Dysk SSD M.2 PCIe:
+			512 GB<br>
+			Wbudowany napęd optyczny:
+			Nie<br>
+			Dotykowy ekran:
+			Nie<br>
+			Typ ekranu:
+			Matowy, LED, WVA<br>
+			Przekątna ekranu:
+			15,6"<br>
+			Rozdzielczość ekranu:
+			1920 x 1080 (Full HD)<br>
+			Jasność matrycy:
+			250 cd/m²<br>
+			Karta graficzna:
+			Intel Iris Xe Graphics<br>
+			Pamięć karty graficznej:
+			Pamięć współdzielona<br>
+			Dźwięk:
+			Wbudowane głośniki stereo, 
+			Wbudowane dwa mikrofony<br>
+			Kamera internetowa:
+			1.0 Mpix<br>
+			Łączność:
+			Wi-Fi 6, 
+			Moduł Bluetooth 5.1<br>
+			Złącza:
+			USB 3.2 Gen. 1 - 2 szt.
+			USB Typu-C (z DisplayPort) - 1 szt.
+			HDMI 1.4 - 1 szt.
+			Czytnik kart pamięci SD - 1 szt.
+			Wyjście słuchawkowe/wejście mikrofonowe - 1 szt.
+			DC-in (wejście zasilania) - 1 szt.<br>
+			Typ baterii:
+			Litowo-polimerowa<br>
+			Pojemność baterii:
+			4-komorowa, 3600 mAh<br>
+			Kolor dominujący:
+			Szary<br>
+			Podświetlana klawiatura:
+			Tak<br>
+			Kolor podświetlenia klawiatury:
+			Biały<br>
+			Zabezpieczenia:
+			Szyfrowanie TPM
+			Kamera z wbudowaną zaślepką<br>
+			Obudowa i wykonanie
+			Aluminiowa pokrywa matrycy
+			Aluminiowe wnętrze laptopa<br>
+			System operacyjny:
+			Microsoft Windows 11 Home<br>
+			Dołączone oprogramowanie:
+			Partycja recovery (opcja przywrócenia systemu z dysku)<br>
+			Zasilacz:
+			19,5 V
+			3,34 A
+			65 W<br>
+			Wtyk: okrągły z pinem - 4,5-3,0 mm
+			HKA65NM201<br>
+			Dodatkowe informacje:
+			Wydzielona klawiatura numeryczna
+			Wielodotykowy, intuicyjny touchpad<br>
+			Komponenty rozszerzone
+			Pamięć RAM rozszerzona na profesjonalnej linii montażowej x-kom<br>
+			Wysokość
+			18,7 mm<br>
+			Szerokość
+			356 mm<br>
+			Głębokość
+			229 mm<br>
+			Waga
+			1,59 kg<br>
+			Dołączone akcesoria:
+			Zasilacz<br>
+			Rodzaj gwarancji:
+			Standardowa
+			</h6>
+			
+		</div>
+		<div id="bt">
+			<h2>Blog technologiczny:</h2>
+			<a href="blog1.html"><div class="blog"><h3> Topologie sieci </h3> </div></a>
+			<a href="blog2.html"><div class="blog"><h3> Sieci WiFi </h3>  </div></a>
+			<a href="blog3.html"><div class="blog"><h3> Media transmisyjne </h3> </div></a>
+		</div>
+	</div>
+	<div id="footer">
+		Strona nie jest prawdziwym sklepem, projekt strony na lekcje EUTK napisany własnoręcznie przez Alana Abramowskiego.
+	</div>
+	
+</body>
+</html>

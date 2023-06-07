@@ -1,0 +1,93 @@
+<!DOCKTYPE HTML>
+<html lang="pl">
+<head>
+  <meta charstet="utf-8"/>
+  <title> Produkt 5</title>
+  <meta name="keywords" content=""/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	<link rel="stylesheet" href="style.css" type="text/css"/>
+	<link rel="preconnect" href="https://fonts.googleapis.com"/>
+  	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+	<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap" rel="stylesheet/">
+</head>
+<body>
+	<div id="menu">
+		<a href=""><div class="produkt"> Klawiatury</div></a>
+		<a href=""><div class="produkt"> Myszki komp.</div></a>
+		<a href=""><div class="produkt"> Komputery</div></a>
+		<a href=""><div class="produkt"> Laptopy</div></a>
+		<div id="p"><input text></div>
+	</div>
+	<div id="sklep">
+		<div id="item">
+			<h3>Logitech MK295 Silent Wireless <br>
+			Cena: 169,00 zł</h3>
+			<img src="p5.jpg">
+			<h6>Rodzaj przełączników:
+Membranowe<br>
+Typ:
+Multimedialna
+Klasyczna<br>
+Łączność:
+Bezprzewodowa<br>
+Interfejs:
+2,4 GHz<br>
+Klawisze numeryczne:
+Tak<br>
+Klawisze multimedialne / funkcyjne:
+Tak<br>
+Obsługa makr:
+Nie<br>
+Podświetlenie klawiszy:
+Nie<br>
+Złącza:
+Nie posiada<br>
+Podpórka pod nadgarstki:
+Nie<br>
+Kolor:
+Grafitowy<br>
+Czas pracy na baterii:
+Do 3 lat<br>
+Obsługiwane systemy:
+Windows
+Chrome OS<br>
+Mysz w zestawie:
+Tak<br>
+Sensor myszy:
+Laserowy<br>
+Profil myszy:
+Uniwersalny<br>
+Rozdzielczość myszy:
+1000 DPI<br>
+Dodatkowe informacje:
+Stopki antypoślizgowe
+Odporność na zachlapanie
+Cicha praca klawiszy
+Zasięg pracy do 10 m<br>
+Dołączone akcesoria:
+Nanoodbiornik
+1 bateria typu AA
+2 baterie typu AAA<br>
+Długość:
+441 mm<br>
+Szerokość:
+149 mm<br>
+Wysokość:
+18 mm<br>
+Waga
+498 g</h6>
+			
+		</div>
+		<div id="bt">
+			<h2>Blog technologiczny:</h2>
+			<a href="blog1.html"><div class="blog"><h3> Topologie sieci </h3> </div></a>
+			<a href="blog2.html><div class="blog"><h3> Sieci WiFi </h3>  </div></a>
+			<a href="blog3.html><div class="blog"><h3> Media transmisyjne </h3> </div></a>
+		</div>
+	</div>
+	<div id="footer">
+		Strona nie jest prawdziwym sklepem, projekt strony na lekcje EUTK napisany własnoręcznie przez Alana Abramowskiego.
+	</div>
+	
+</body>
+</html>
